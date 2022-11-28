@@ -161,11 +161,12 @@
 
 
 
- # Speculative Design
+# Speculative Design
 
 
-  ### Oct 26 - Oct 30
+### Oct 26 - Oct 30
   * Complete the jewellery iamge collcetion.
+
   **Machine Learning
   * Disco Diffusion practice.
   * Stabel Diffusion practice.
@@ -177,6 +178,7 @@
   **Machien Learning
   * VQGAN+CLIP generates the posthuman portraits by human essence.
   * Deform Disco Diffusion practice.
+
   **Ethnographic Research
   * Find American, Pacific and African jewellery to complete jewellery map.
   * Organzie the findings.
