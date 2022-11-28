@@ -124,7 +124,7 @@
 # Ethnographic Research
 
 
-### Oct 8 - Oct 16
+ ### Oct 8 - Oct 16
  * Brainstorm about human behaviour.
 
  **Interview
@@ -140,7 +140,7 @@
  * Jewellery of Out Time.
 
 
-### Oct 17 - Oct 25
+ ### Oct 17 - Oct 25
  * Stable Diffusion practice.
  * Collect relative reference.
  * Made jewellery description by GPT-2 for each image.
@@ -155,25 +155,25 @@
  * A History of Jewellery.
 
 
-### Oct 25 - Tutorial
+ ### Oct 25 - Tutorial
   * Decide to express the posthuman from different region
   * Confirm the form of exhibition 
 
 
 
-# Speculative Design
+ # Speculative Design
 
 
-### Oct 26 - Oct 30
- * Complete the jewellery iamge collcetion.
- **Machine Learning
- * Disco Diffusion practice.
- * Stabel Diffusion practice.
- * VQGAN+CLIP practice
- * Video generation by AI
+  ### Oct 26 - Oct 30
+  * Complete the jewellery iamge collcetion.
+  **Machine Learning
+  * Disco Diffusion practice.
+  * Stabel Diffusion practice.
+  * VQGAN+CLIP practice
+  * Video generation by AI
 
 
-### Oct 31 - Nov 6
+  ### Oct 31 - Nov 6
   **Machien Learning
   * VQGAN+CLIP generates the posthuman portraits by human essence.
   * Deform Disco Diffusion practice.
@@ -182,7 +182,7 @@
   * Organzie the findings.
 
 
-### Nov 7 - Nov 10
+ ### Nov 7 - Nov 10
   * VQGAN+CLIP practice
   * Unity Practice
   * Blender practice.
