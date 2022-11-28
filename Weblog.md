@@ -121,10 +121,10 @@
 
 
 
-# Ethnographic Research
+#Ethnographic Research
 
 
-  ### Oct 8 - Oct 16
+### Oct 8 - Oct 16
   * Brainstorm about human behaviour.
 
   **Interview
