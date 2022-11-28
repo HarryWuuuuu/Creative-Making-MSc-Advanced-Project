@@ -124,38 +124,38 @@
 # Ethnographic Research
 
 
- ### Oct 8 - Oct 16
- * Brainstorm about human behaviour.
+  ### Oct 8 - Oct 16
+  * Brainstorm about human behaviour.
 
- **Interview
- * Take interview with 13 people to collect their favorite object which could accompany them all lives.
- * Organize the feedback of interview
+  **Interview
+  * Take interview with 13 people to collect their favorite object which could accompany them all lives.
+  * Organize the feedback of interview
 
- **The research about jewellery history
- * Collect dataset from The British Museum.
- * Make timeline.
- * Noticing the result of collection
+  **The research about jewellery history
+  * Collect dataset from The British Museum.
+  * Make timeline.
+  * Noticing the result of collection
 
- **Jewellery
- * Jewellery of Out Time.
-
-
- ### Oct 17 - Oct 25
- * Stable Diffusion practice.
- * Collect relative reference.
- * Made jewellery description by GPT-2 for each image.
- * Extract the noun in the description, comparing each jewellery and organzie findings.
-
- **The research about jewellery history
- * Still collect jewellery images from different museum or collection website.
- * Reflect the relation between jewellery and the human essence.
- 
- **Reading
- * Generations of Jewellery.
- * A History of Jewellery.
+  **Jewellery
+  * Jewellery of Out Time.
 
 
- ### Oct 25 - Tutorial
+### Oct 17 - Oct 25
+  * Stable Diffusion practice.
+  * Collect relative reference.
+  * Made jewellery description by GPT-2 for each image.
+  * Extract the noun in the description, comparing each jewellery and organzie findings.
+
+  **The research about jewellery history
+  * Still collect jewellery images from different museum or collection website.
+  * Reflect the relation between jewellery and the human essence.
+
+  **Reading
+  * Generations of Jewellery.
+  * A History of Jewellery.
+
+
+### Oct 25 - Tutorial
   * Decide to express the posthuman from different region
   * Confirm the form of exhibition 
 
@@ -174,7 +174,7 @@
   * Video generation by AI
 
 
-  ### Oct 31 - Nov 6
+### Oct 31 - Nov 6
   **Machien Learning
   * VQGAN+CLIP generates the posthuman portraits by human essence.
   * Deform Disco Diffusion practice.
