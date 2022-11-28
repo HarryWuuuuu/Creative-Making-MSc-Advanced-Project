@@ -120,7 +120,9 @@
  * Got direction of practice.
 
 
+
 # Ethnographic Research
+
 
 ### Oct 8 - Oct 16
  * Brainstorm about human behaviour.
@@ -128,25 +130,77 @@
  **Interview
  * Take interview with 13 people to collect their favorite object which could accompany them all lives.
  * Organize the feedback of interview
- !{alt}([https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Project%20Code/Ethnographic%20Research/Interview%20Results.pdf](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Project%20Code/Ethnographic%20Research/Interview%20Results.pdf) title)
- !{alt}( title)
-### Oct 17 - Oct 15
+
+ **The research about jewellery history
+ * Collect dataset from The British Museum.
+ * Make timeline.
+ * Noticing the result of collection
+
+ **Jewellery
+ * Jewellery of Out Time.
+
+
+### Oct 17 - Oct 25
+ * Stable Diffusion practice.
+ * Collect relative reference.
+ * Made jewellery description by GPT-2 for each image.
+ * Extract the noun in the description, comparing each jewellery and organzie findings.
+
+ **The research about jewellery history
+ * Still collect jewellery images from different museum or collection website.
+ * Reflect the relation between jewellery and the human essence.
+ 
+ **Reading
+ * Generations of Jewellery.
+ * A History of Jewellery.
+
 
 ### Oct 25 - Tutorial
+  * Decide to express the posthuman from different region
+  * Confirm the form of exhibition 
 
-### Oct 26 - Oct 30
-
-### Oct 31 - Nov 6
-
-### Nov 7 - Nov 10
-Finish timeline
-consider about globes
-
-### Nov 11 - Nov 23
-
-### Nov 24 - Nov 28
 
 
 # Speculative Design
 
 
+### Oct 26 - Oct 30
+ * Complete the jewellery iamge collcetion.
+ **Machine Learning
+ * Disco Diffusion practice.
+ * Stabel Diffusion practice.
+ * VQGAN+CLIP practice
+ * Video generation by AI
+
+
+### Oct 31 - Nov 6
+  **Machien Learning
+  * VQGAN+CLIP generates the posthuman portraits by human essence.
+  * Deform Disco Diffusion practice.
+  **Ethnographic Research
+  * Find American, Pacific and African jewellery to complete jewellery map.
+  * Organzie the findings.
+
+
+### Nov 7 - Nov 10
+  * VQGAN+CLIP practice
+  * Unity Practice
+  * Blender practice.
+  * Improve jewellery dataset.
+
+
+### Nov 11 - Nov 23
+  * Generate posthuman by VQGAN+CLIP
+  * Unity Practice.
+  * Finish the timelien of jewellery.
+
+
+### Nov 23 - Tutorial
+  * Confirm the effect of ML results.
+  * Confirm the final lan.
+
+
+### Nov 24 - Nov 28
+  * Finish the generation of posthuman.
+  * Organize referece and documents.
+  * Literature Review.
