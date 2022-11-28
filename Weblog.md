@@ -184,7 +184,7 @@
   * Organzie the findings.
 
 
- ### Nov 7 - Nov 10
+### Nov 7 - Nov 10
   * VQGAN+CLIP practice
   * Unity Practice
   * Blender practice.
