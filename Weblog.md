@@ -28,14 +28,14 @@
 ### July 2 - July 10
   * Review the records of tutorial.
   * Brainstorm about different topic which would be developed.
-  **Reading: 
+  **Reading:** 
   * Speculative Everythings
   * The Posthuman (Introduction) 
 
 ### July 11 - July 19
-  **Practice
+  **Practice**
   * Touchdesigner practice. 
-  **Reading:
+  **Reading:**
   * Speculative Everythings
   * On the Eve of Artificial Minds.
 
@@ -45,10 +45,10 @@
  
   
 ### July 29 - Aug 7
-  **Practice
+  **Practice**
   * Blender geometry practice
   * Touchdesigner particle effects
-  **Reading
+  **Reading**
   * Speculative Everythings
   * The Posthuman (chapter 1)
   * Hertzian Tales
@@ -56,7 +56,7 @@
   
 ### Aug 8 - Aug 14
   * Research about embodied embedded cognition.
-  **Reading
+  **Reading**
   * Hertzian Tales
   * The Posthuman (chapter 1)
   * Cyborg Manifesto (chapter 1)
@@ -65,14 +65,14 @@
 ### Aug 15 - Aug 21
   * Organize the reference that have been seen in the last month.
   * Brief writing.
-  **Reading
+  **Reading**
   * The Singularity is near.
   * Hertzian Tales.
 
 
 ### Aug 22 - Aug 28
   * Disco Diffusion practice
-  **Reading
+  **Reading**
   * The Singularity is near. 
   * Review the notes of The Posthuman
   * A Cyborg Manifesto
@@ -88,7 +88,7 @@
 
 ### Spe 12 - Sep 18
   * Openframework Practice. (shader)
-  **Reading
+  **Reading**
   * The Posthuman (chapter 2)
   * A Briefer History of Time.
 
@@ -96,7 +96,7 @@
 ### Spe 19 - Sep 25
   * Write brief.
   * Collect reference about posthuman
-  **Reading
+  **Reading**
   * The Posthuman (chapter 2)
   * Review Speculative Everything.
   
@@ -105,7 +105,7 @@
   * Improve brief.
   * Brainstorm about posthuman
   * Reference search
-  **Reading
+  **Reading**
   * The Posthuman chapter 3
 
 
@@ -127,16 +127,16 @@
 ### Oct 8 - Oct 16
   * Brainstorm about human behaviour.
 
-  **Interview
+  **Interview**
   * Take interview with 13 people to collect their favorite object which could accompany them all lives.
   * Organize the feedback of interview
 
-  **The research about jewellery history
+  **The research about jewellery history**
   * Collect dataset from The British Museum.
   * Make timeline.
   * Noticing the result of collection
 
-  **Jewellery
+  **Jewellery**
   * Jewellery of Out Time.
 
 
@@ -146,11 +146,11 @@
   * Made jewellery description by GPT-2 for each image.
   * Extract the noun in the description, comparing each jewellery and organzie findings.
 
-  **The research about jewellery history
+  **The research about jewellery history**
   * Still collect jewellery images from different museum or collection website.
   * Reflect the relation between jewellery and the human essence.
 
-  **Reading
+  **Reading**
   * Generations of Jewellery.
   * A History of Jewellery.
 
@@ -167,7 +167,7 @@
 ### Oct 26 - Oct 30
   * Complete the jewellery iamge collcetion.
 
-  **Machine Learning
+  **Machine Learning**
   * Disco Diffusion practice.
   * Stabel Diffusion practice.
   * VQGAN+CLIP practice
@@ -175,7 +175,7 @@
 
 
 ### Oct 31 - Nov 6
-  **Machien Learning
+  **Machien Learning**
   * VQGAN+CLIP generates the posthuman portraits by human essence.
   * Deform Disco Diffusion practice.
 
