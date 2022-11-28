@@ -100,21 +100,35 @@
   * The Posthuman (chapter 2)
   * Review Speculative Everything.
   
+  
 ### Spe 26 - Oct 2
   * Improve brief.
   * Brainstorm about posthuman
+  * Reference search
   **Reading
   * The Posthuman chapter 3
-  * 
+
+
 ### Oct 3 - Oct 7
+  * Improve brief.
+  * Organize the lirerature refernce and art works which are related to the brief.
+
 
 ### Oct 7 - Tutorial
+ * Confirm brief.
+ * Confirm research question and gap.
+ * Got direction of practice.
 
 
 # Ethnographic Research
 
 ### Oct 8 - Oct 16
+ * Brainstorm about human behaviour.
 
+ **Interview
+ * Take interview with 13 people to collect their favorite object which could accompany them all lives.
+ * Organize the feedback of interview
+ * 
 ### Oct 17 - Oct 15
 
 ### Oct 25 - Tutorial
