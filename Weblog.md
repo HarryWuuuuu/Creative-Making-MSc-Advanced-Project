@@ -128,7 +128,7 @@
  **Interview
  * Take interview with 13 people to collect their favorite object which could accompany them all lives.
  * Organize the feedback of interview
- * 
+ !{alt}(https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Project%20Code/Ethnographic%20Research/Interview%20Results.pdf title)
 ### Oct 17 - Oct 15
 
 ### Oct 25 - Tutorial
