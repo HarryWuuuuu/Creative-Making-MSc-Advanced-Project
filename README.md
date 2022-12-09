@@ -5,3 +5,6 @@ Posthuman Archive is a speculative design practice about designing posthuman by 
 
 # Video Link
 https://www.youtube.com/watch?v=HJqBuR8hh9o
+
+# Results of Machine Learning
+https://drive.google.com/drive/folders/1GCktZuDn39g-VCeff9FKvA1aTeDHzakl?usp=sharing
