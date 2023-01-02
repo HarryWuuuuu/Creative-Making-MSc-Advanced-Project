@@ -1,3 +1,5 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
 Jewellery.pdf filter=lfs diff=lfs merge=lfs -text
+/Users/harry/Documents/GitHub/Creative-Making-MSc-Advanced-Project/upload/Jewellery.pdf filter=lfs diff=lfs merge=lfs -text
+/Users/harry/Documents/GitHub/Creative-Making-MSc-Advanced-Project/upload filter=lfs diff=lfs merge=lfs -text
