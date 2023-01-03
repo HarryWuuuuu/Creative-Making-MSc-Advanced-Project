@@ -16,11 +16,11 @@ Based on the concept of latent space in machine learning, I tried to extract hum
 ## Postgraduate Showcase
 Please check the [picrtures](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/tree/main/Postgraduate%20Showcase) in Postgraduate Showcase folder.
 
-## Posthuman Visual Presentations
-https://drive.google.com/drive/folders/1GCktZuDn39g-VCeff9FKvA1aTeDHzakl?usp=sharing
-
 ## Video Link
 https://www.youtube.com/watch?v=HJqBuR8hh9o
+
+## Posthuman Visual Presentations
+https://drive.google.com/drive/folders/1GCktZuDn39g-VCeff9FKvA1aTeDHzakl?usp=sharing
 
 ## Interactive Glove Application
 https://drive.google.com/file/d/1MhdqeKL5BG8K-7Hjvor06O35ASxwfReh/view?usp=share_link  
