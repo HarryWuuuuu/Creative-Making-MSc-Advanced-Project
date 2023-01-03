@@ -22,3 +22,7 @@ https://drive.google.com/drive/folders/1GCktZuDn39g-VCeff9FKvA1aTeDHzakl?usp=sha
 ## Video Link
 https://www.youtube.com/watch?v=HJqBuR8hh9o
 
+## Interactive Glove Application
+https://drive.google.com/file/d/1MhdqeKL5BG8K-7Hjvor06O35ASxwfReh/view?usp=share_link  
+Recommend system: **Mac OS**
+
