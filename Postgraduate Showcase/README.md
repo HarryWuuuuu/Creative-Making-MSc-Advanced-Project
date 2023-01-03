@@ -1,3 +1,16 @@
 ## Exhibition
 
 ![Card](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Card.jpg)
+![Card1](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Card_1.jpg)
+![Card2](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Card_2.jpg)
+![InteractiveGlobe](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Interactive%20Globe.jpg)
+![InteractiveGlobe](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Interactive%20Globe_1.jpg)
+![Media](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Media%20Display.jpg)
+![Media1](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Midea%20Display.jpg)
+![Noun](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Noun%20Research.jpg)
+![Noun1](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Noun%20Research_1.jpg)
+![Timeline](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline%20details.jpg)
+![Timeline1](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline.jpg)
+![Timeline2](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline_1.jpg)
+![Timeline3](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline_2.jpg)
+![Timeline4](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline_3.jpg)
