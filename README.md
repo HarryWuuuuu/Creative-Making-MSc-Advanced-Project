@@ -11,7 +11,7 @@ In that case, I took an ethnographic research about the history of jewellery. Du
 After that, I found that jewellery indicates the human desire for power. It's also evolving with the development of material and human skills. The form and pattern of jewelleri are also filled with symbolic significance that reflects many cultural presentations and social structures. The human essence manifests itself differently in various cultures and societies.
 
 ## Speculative Design
-Based on the concept of latent space in machine learning, I tried to extract human essence from jewellery and transfer it to a specific visual effect. I took some experiments with different models, weights, datasets, prompts, etc. Finally, I generated posthuman visual presentations based on 49 jewelleries from different cultures and regions.
+Based on the concept of latent space in machine learning, I tried to extract human essence from jewellery and transfer it to a specific visual effect. I took some experiments with different models, weights, datasets, prompts, etc. Finally, I generated posthuman visual presentations based on 49 jewelleries from different cultures and regions. I also designed an interactive globe as a browser to check the these presentations.
 
 ## Posthuman Visual Presentations
 https://drive.google.com/drive/folders/1GCktZuDn39g-VCeff9FKvA1aTeDHzakl?usp=sharing
