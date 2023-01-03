@@ -14,3 +14,4 @@
 ![Timeline2](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline_1.jpg)
 ![Timeline3](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline_2.jpg)
 ![Timeline4](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Timeline_3.jpg)
+![Attendees](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project/blob/main/Postgraduate%20Showcase/Exhibition.jpg)
