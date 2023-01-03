@@ -13,6 +13,9 @@ After that, I found that jewellery indicates the human desire for power. It's al
 ## Speculative Design
 Based on the concept of latent space in machine learning, I tried to extract human essence from jewellery and transfer it to a specific visual effect. I took some experiments with different models, weights, datasets, prompts, etc. Finally, I generated posthuman visual presentations based on 49 jewelleries from different cultures and regions. I also designed an interactive globe as a browser to check the these presentations.
 
+## Postgraduate Showcase
+Please check [the picrtures](https://github.com/HarryWuuuuu/Creative-Making-MSc-Advanced-Project) in Postgraduate Showcase folder.
+
 ## Posthuman Visual Presentations
 https://drive.google.com/drive/folders/1GCktZuDn39g-VCeff9FKvA1aTeDHzakl?usp=sharing
 
