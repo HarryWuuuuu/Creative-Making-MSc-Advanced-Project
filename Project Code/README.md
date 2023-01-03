@@ -6,7 +6,6 @@ Recommend: **Unity 2021.3.13f1**
 ## Application
   https://drive.google.com/file/d/1MhdqeKL5BG8K-7Hjvor06O35ASxwfReh/view?usp=share_link  
   
-  Recommend System:  
-  **Mac OS**  
+  Recommend System: **Mac OS**  
   
   You can download it directly and play it on your own computer.
